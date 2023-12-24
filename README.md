@@ -1,2 +1,4 @@
 # pcl
-Portable Coroutine Library
+
+For more information see [libpcl](http://www.xmailserver.org/libpcl.html).
+
